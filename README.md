@@ -1,4 +1,5 @@
-**Software Execution Instructions**`#RRGGBB`
+**Software Execution Instructions**
+
 This document provides instructions on how to install and execute the software. Please follow the steps below to get started.
 
 **Prerequisites**
@@ -32,6 +33,7 @@ run on the activate.py file to run it. This will launch the software and execute
 Run "main_v2.pyc" file:
 
 run on the main_v2.pyc file to run it. This will execute the main functionality of the software.
-Note: Make sure you have the necessary permissions to execute these files on your system.
+
+**Note: Make sure you have the necessary permissions to execute these files on your system.**
 
 Congratulations! You have successfully installed and executed the software. If you encounter any issues or need further assistance, please refer to the documentation or contact our support team.
